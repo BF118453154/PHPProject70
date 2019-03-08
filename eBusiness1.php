@@ -48,7 +48,7 @@ background-color: lightpink;
             </tr>
                 <tr>
                     <td>Sub Total</td>
-                    <td><input type="text" id="txtSubTot" name="txtSub" readonly /></td>
+                    <td><input type="text" id="txtSubTot" name="txtSub" value="" readonly /></td>
                 </tr>
                 <tr>
                     <td>Discount @ 10%</td>

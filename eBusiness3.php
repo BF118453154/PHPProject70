@@ -12,7 +12,7 @@ background-color: lightpink;
     </head>
 
     <body>
-        <u><h1>Receipt</h1></u>
+        <u><h1>Ebusiness3</h1></u>
         <div class="bg">
             
         <!-- // Starting the session to get the session variable from last page-->
